@@ -16,3 +16,17 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.joke {
+    background-color: lightgrey;
+    max-width: 800px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px auto;
+    align-content: center;
+}
+.info {
+    margin-top: 50px;
+    font-family: monospace;
+    color: indianred;
+}
