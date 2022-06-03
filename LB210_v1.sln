@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB210", "LB210\LB210.csproj", "{A3871078-2AC8-4D15-8402-C92510261C45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB210_Test", "LB210_Test\LB210_Test.csproj", "{D3F752CE-A49A-4CD4-8882-0B9D4C70FE81}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A3871078-2AC8-4D15-8402-C92510261C45} = {A3871078-2AC8-4D15-8402-C92510261C45}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3871078-2AC8-4D15-8402-C92510261C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3871078-2AC8-4D15-8402-C92510261C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3871078-2AC8-4D15-8402-C92510261C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3871078-2AC8-4D15-8402-C92510261C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F752CE-A49A-4CD4-8882-0B9D4C70FE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F752CE-A49A-4CD4-8882-0B9D4C70FE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F752CE-A49A-4CD4-8882-0B9D4C70FE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F752CE-A49A-4CD4-8882-0B9D4C70FE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4A591D-9F41-4B7B-9C90-40396D1048C3}
+	EndGlobalSection
+EndGlobal
