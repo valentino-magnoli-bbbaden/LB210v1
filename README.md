@@ -1,5 +1,5 @@
 # LB210 v1
-Dies ist die Beispielanwendung, welche zur Bearbeitung der LB210 v1 gebraucht wird.
+Dies ist die Beispielanwendung, welche zur Bearbeitung der LB210 v1 gebraucht wird. 
 
 # Anpassungen
 
